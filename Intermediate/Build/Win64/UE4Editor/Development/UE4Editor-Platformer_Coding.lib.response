@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Platformer_Coding.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Programs\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\Projects\Unreal Engine\Platformer_Coding\Intermediate\Build\Win64\UE4Editor\Development\Platformer_Coding\Platformer_Coding.cpp.obj"
+"E:\Projects\Unreal Engine\Platformer_Coding\Intermediate\Build\Win64\UE4Editor\Development\Platformer_Coding\Platformer_CodingCharacter.cpp.obj"
+"E:\Projects\Unreal Engine\Platformer_Coding\Intermediate\Build\Win64\UE4Editor\Development\Platformer_Coding\Platformer_CodingGameMode.cpp.obj"
+"E:\Projects\Unreal Engine\Platformer_Coding\Intermediate\Build\Win64\UE4Editor\Development\Platformer_Coding\Platformer_Coding.init.gen.cpp.obj"
+"E:\Projects\Unreal Engine\Platformer_Coding\Intermediate\Build\Win64\UE4Editor\Development\Platformer_Coding\Platformer_CodingCharacter.gen.cpp.obj"
+"E:\Projects\Unreal Engine\Platformer_Coding\Intermediate\Build\Win64\UE4Editor\Development\Platformer_Coding\Platformer_CodingGameMode.gen.cpp.obj"
+"E:\Programs\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Platformer_Coding\PCLaunch.rc.res"
+"E:\Programs\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"E:\Projects\Unreal Engine\Platformer_Coding\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Platformer_Coding.lib"

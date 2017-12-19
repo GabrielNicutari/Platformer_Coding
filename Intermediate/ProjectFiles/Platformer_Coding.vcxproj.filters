@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\Platformer_Coding.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{81B03AFD-CB71-4EEA-8006-C2619D01BD4D}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Platformer_Coding.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\Platformer_CodingEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{55EDA6D5-E56D-4DFB-9715-25EE6C24516E}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\Platformer_Coding">
+			<UniqueIdentifier>{4F1B5F77-2447-4468-82D8-00DDB4BADD24}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Platformer_Coding\Platformer_Coding.Build.cs">
+			<Filter>Source\Platformer_Coding</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\Platformer_Coding\Platformer_Coding.cpp">
+			<Filter>Source\Platformer_Coding</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Platformer_Coding\Platformer_Coding.h">
+			<Filter>Source\Platformer_Coding</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Platformer_Coding\Platformer_CodingCharacter.cpp">
+			<Filter>Source\Platformer_Coding</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Platformer_Coding\Platformer_CodingCharacter.h">
+			<Filter>Source\Platformer_Coding</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Platformer_Coding\Platformer_CodingGameMode.cpp">
+			<Filter>Source\Platformer_Coding</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Platformer_Coding\Platformer_CodingGameMode.h">
+			<Filter>Source\Platformer_Coding</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
