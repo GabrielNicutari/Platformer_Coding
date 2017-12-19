@@ -66,7 +66,7 @@ Global
 		{65541C79-4FC0-49FF-A9C1-60BC12FEA3F6}.DebugGame Editor|Win64.Build.0 = DebugGame_Editor|x64
 		{65541C79-4FC0-49FF-A9C1-60BC12FEA3F6}.DebugGame|HTML5.ActiveCfg = HTML5_DebugGame_Game|Win32
 		{65541C79-4FC0-49FF-A9C1-60BC12FEA3F6}.DebugGame|HTML5.Build.0 = HTML5_DebugGame_Game|Win32
-		{65541C79-4FC0-49FF-A9C1-60BC12FEA3F6}.DebugGame|Win32.ActiveCfg = DebugGame_Game|Win32
+		{65541C79-4FC0-49FF-A9C1-60BC12FEA36}.DebugGame|Win32.ActiveCfg = DebugGame_Game|Win32
 		{65541C79-4FC0-49FF-A9C1-60BC12FEA3F6}.DebugGame|Win32.Build.0 = DebugGame_Game|Win32
 		{65541C79-4FC0-49FF-A9C1-60BC12FEA3F6}.DebugGame|Win64.ActiveCfg = DebugGame_Game|x64
 		{65541C79-4FC0-49FF-A9C1-60BC12FEA3F6}.DebugGame|Win64.Build.0 = DebugGame_Game|x64
